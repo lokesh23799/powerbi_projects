@@ -14,6 +14,8 @@ The final stage consists of creating and publishing "Visualization" or reports t
   - Imported data from Excel and used Power Query to transform the data
   - Created a data model in Power BI and used DAX to create calculated columns and measures
   - Improved user experience by applying conditional formatting, drillthrough filters and visual interactions
+  
+  Reference-Internet
 
 
 
