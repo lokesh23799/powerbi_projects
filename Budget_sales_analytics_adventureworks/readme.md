@@ -1,4 +1,4 @@
-# Report Details
+## ADVENTURE WORKS POWER BI BUDGET SALES REPORT
 
 The data consists of multiple tables such as Customers, Sales, Products, Budget, Regions, and Calendar. Report shows the drill down of the AdventureWorks' performance in terms of sales for the year 2016. 
 
@@ -10,4 +10,19 @@ The final stage consists of creating and publishing "Visualization" or reports t
 
 
 
+- Created a Sales Report in Power BI giving detailed insights on best-selling products and customers
+  - Imported data from Excel and used Power Query to transform the data
+  - Created a data model in Power BI and used DAX to create calculated columns and measures
+  - Improved user experience by applying conditional formatting, drillthrough filters and visual interactions
+
+
+
 ![Screenshot (2)](https://user-images.githubusercontent.com/63411785/211374549-39edceef-9e59-492b-990c-ada105bcd21b.png)
+
+
+
+ 
+
+
+
+  
